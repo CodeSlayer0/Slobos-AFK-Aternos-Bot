@@ -8,7 +8,7 @@
   "server": {
     "ip": "mooneye.aternos.host",
     "port": 58683,
-    "version": "",
+    "version": "26.2",
     "try-creative": false
   },
   "position": {
