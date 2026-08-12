@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "wrongapproach.aternos.me",
+    "ip": "mooneye.aternos.host",
     "port": 58683,
     "version": "",
     "try-creative": false
