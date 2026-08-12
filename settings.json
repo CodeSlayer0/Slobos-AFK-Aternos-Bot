@@ -8,7 +8,7 @@
   "server": {
     "ip": "wrongapproach.aternos.me",
     "port": 58683,
-    "version": "26.2",
+    "version": "1.20.4",
     "try-creative": false
   },
   "position": {
@@ -85,8 +85,9 @@
   },
   "chat": {
     "respond": true
-  }
+  },
   "auto-reconnect": {
     "enabled": true,
     "delay": 5000
+  }
 }
