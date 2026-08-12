@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "wrongapproach.aternos.me",
+    "ip": "wrongapproach.aternos.me:58683",
     "port": 58683,
     "version": "",
     "try-creative": false
