@@ -12,7 +12,7 @@
     "try-creative": false
   },
   "position": {
-    "enabled": false
+    "enabled": true
   },
   "utils": {
     "auto-auth": {
@@ -34,7 +34,8 @@
     "max-reconnect-delay": 120000
   },
   "movement": {
-    "enabled": false
+    "enabled": true
+    "mode": "stay-in-place"
   },
   "modules": {
     "avoidMobs": false,
