@@ -86,4 +86,7 @@
   "chat": {
     "respond": true
   }
+  "auto-reconnect": {
+    "enabled": true,
+    "delay": 5000
 }
