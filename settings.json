@@ -24,7 +24,9 @@
     },
     "anti-afk": {
       "enabled": true,
-      "sneak": true
+      "sneak": true"
+      "swing-arm": true,
+      "rotate-head": true
     },
     "chat-messages": {
       "enabled": true,
@@ -32,7 +34,7 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
+        "Harsh is Gay!!!",
         "I like to play Minecraft!"
       ]
     },
